@@ -46,7 +46,7 @@ To run the demo application, please follow these steps:
 ### Clone the Repository
 ```bash
 git clone https://github.com/Tikhon-Radkevich/NLP-test.git
-cd nlp_test
+cd NLP-test
 ```
 
 ### Set Up the Virtual Environment
