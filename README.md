@@ -66,6 +66,7 @@ streamlit run ./demo_app.py
 ```
 
 ## Example
+Store URL was used as an example:
 ```bash
 https://themodern.com.au/products/hamar-plant-stand-ash
 ```
